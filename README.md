@@ -229,8 +229,12 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+    > Spend at least 40 hours coding solutions to different types of problems. One of the best resources is TopCoder. Read this. Then try solving problems. Pick those that test your ability to implement recursive, pattern-matching, greedy, dynamic programming, and graph problems. Just go through a bunch of archived problems.
+    >
+    > This is probably the number one reason I was hired at Google. I spent literally two weeks obsessed with TopCoder. After that, I could code Dijkstra’s algorithm with my eyes closed and one arm tied behind my back. I could solve almost any kind of graph-problem under the sun. It was all problem-solving repetition. And as Eric Schmidt says, “Repetition doesn’t spoil the prayer.”
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+    > Use one corner of the whiteboard to note down the requirements you have heard or an example figure that your interviewer has drawn. As you are thinking and asking clarifying questions to your interviewer take notes there. These can just be one-word bullets to make you remember all the scenarios.
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
@@ -239,10 +243,12 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 - [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+    - [ ] [Mastering the Software Engineering Interview @Coursera](https://www.coursera.org/learn/cs-tech-interview/home/welcome)
+    - [ ] [~~Software Engineer Interview Unleashed (paid course)~~](https://www.udemy.com/software-engineer-interview-unleashed):
+        - ~~Learn how to make yourself ready for software engineer interviews from a former Google interviewer.~~
+    - [ ] [~~Python for Data Structures, Algorithms, and Interviews! (paid course)~~](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+        - ~~A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.~~
+
 
 ## Pick One Language for the Interview
 
